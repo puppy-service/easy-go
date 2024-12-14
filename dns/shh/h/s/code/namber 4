@@ -1,0 +1,25 @@
+tocken 
+
+#!/bin/bash
+
+  BS <div>
+
+read -p "app" number1[::]
+
+read -p "app" number2[::]
+
+if [number2 -gt number1]; then
+
+number3=$((number2 -number1))
+
+echo "$number3"[::]
+
+else 
+
+number4 = ((number1 - number2))
+
+echo "$number4"[::]
+
+fi;df;app
+BS ended <div>
+
